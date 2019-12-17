@@ -1,5 +1,5 @@
 import React from 'react'
-import User from '../src/Components/user.png'
+import User from './user.png'
 const Card=props=>{
   return(
     <div className="card text-center">
